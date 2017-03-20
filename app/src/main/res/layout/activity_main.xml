@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.carleton.a4thyearproject.MainActivity"
+    android:background="@android:color/black">
+
+    <Button
+        android:text="RIGHT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/left"
+        android:layout_toRightOf="@+id/down"
+        android:layout_toEndOf="@+id/down"
+        android:id="@+id/right"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/background_light"
+        android:background="@android:color/background_light" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text='192.168.0.21'
+        android:ems="10"
+        android:id="@+id/idt"
+        android:textColor="?attr/colorBackgroundFloating"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="2000"
+        android:ems="10"
+        android:layout_below="@+id/idt"
+        android:layout_alignRight="@+id/idt"
+        android:layout_alignEnd="@+id/idt"
+        android:id="@+id/port"
+        android:textColor="?attr/colorBackgroundFloating" />
+
+    <Button
+        android:text="Connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/port"
+        android:layout_toRightOf="@+id/up"
+        android:layout_toEndOf="@+id/up"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="14dp"
+        android:id="@+id/connect" />
+
+    <Button
+        android:text="DOWN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/down"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/background_light"
+        android:background="@android:color/background_light"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/up"
+        android:layout_alignStart="@+id/up" />
+
+    <Button
+        android:text="UP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/up"
+        style="@style/Widget.AppCompat.Button"
+        android:textColor="@android:color/background_light"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:background="@android:color/background_light"
+        android:elevation="5dp"
+        android:filterTouchesWhenObscured="true"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="?attr/windowActionBarOverlay"
+        android:layout_above="@+id/right"
+        android:layout_centerHorizontal="true" />
+
+    <WebView
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/up"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/port"
+        android:id="@+id/web" />
+
+    <Button
+        android:text="LEFT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/left"
+        android:backgroundTint="@android:color/holo_red_dark"
+        style="@android:style/Widget.Button"
+        android:textColor="@android:color/background_light"
+        android:textStyle="normal|bold"
+        android:textAllCaps="false"
+        android:background="@android:color/background_light"
+        android:layout_above="@+id/down"
+        android:layout_toLeftOf="@+id/up"
+        android:layout_toStartOf="@+id/up" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/left"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="19dp"
+        android:id="@+id/webon"
+        android:background="@color/colorPrimaryDark"
+        android:focusableInTouchMode="true" />
+
+</RelativeLayout>

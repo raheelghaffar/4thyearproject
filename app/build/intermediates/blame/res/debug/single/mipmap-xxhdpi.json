@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\carletonlogo.png",
+        "source": "E:\\testapplicaiton\\4thyearproject\\app\\src\\main\\res\\mipmap-xxhdpi\\carletonlogo.png"
+    },
+    {
+        "merged": "E:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\testapplicaiton\\4thyearproject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

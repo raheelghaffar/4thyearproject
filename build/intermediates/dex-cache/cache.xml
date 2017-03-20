@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b5e60afd77d4380c8d588c880fedf0a658f46bb">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f469bdb22787dae65cbcba82b20862d551731623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_d1ca4ff633a84c48f563a0fbf61c1f707ae8ba9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e6e5c6fcdcbbb9b0f2aaf38949ab9cc207f641a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ba7f57b9ee72134042eb14490c754ccfa6522d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_20949ac85b20f49b39ab1407803ad7f86f405c57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b6aa721cd7a8530a3681dfa68084593c74b2a550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b72f63dc97136eda253b6fff08cfb0928d6d688d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6398e6d5ce4af72c4e58fd7ad2bed8c2f0f34a7c">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_01091547d26924e8b0b6427d426199b234e23c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_02103fb6dfca5d8234a9171e8db273b71090654b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2f2237a8cc9c56105ae44dc691e5af1a46b5f9b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4d808041ed1fade0f91c11b78ff7b1b78c2b805a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raheel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_650398b5f426a0f42e382a5ee5392a8c79cbfb3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fcf29f87af050b38f171d78d3abce8b2cc5c28fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a9b3123c0622c223c40f5cd37f231869fabeb192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a67d90b8b0ad5885a81ebfc9eb4979ebdac803b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4585abdee8101f773f8b2c9dbaf94285eaebd6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\testapplicaiton\4thyearproject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\testapplicaiton\4thyearproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2976ca851cec8a1550184bef7a5605b9ba107aa6\classes.dex" />
+    </item>
+
+</items>

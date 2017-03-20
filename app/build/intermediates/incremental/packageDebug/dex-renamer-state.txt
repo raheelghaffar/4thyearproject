@@ -1,0 +1,7 @@
+#Mon Mar 13 12:03:40 EDT 2017
+base.0=E\:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_01091547d26924e8b0b6427d426199b234e23c60
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f469bdb22787dae65cbcba82b20862d551731623\\classes.dex
+base.1=E\:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f469bdb22787dae65cbcba82b20862d551731623
+file.0=E\:\\testapplicaiton\\4thyearproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_01091547d26924e8b0b6427d426199b234e23c60\\classes.dex
